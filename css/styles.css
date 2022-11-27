@@ -1,0 +1,162 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#title{
+    background-color: #ff4c68;  
+    color: #fff;  
+}
+h1{
+    font-family: 'Montserrat-black', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+h2{
+    font-family:"Montserrat-bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: 'Montserrat-bold';
+    font-size: 1.5rem;
+    text-align: center;
+}
+p{
+    text-align: center;
+
+}
+.col-lg-4{
+    padding: 0 40px;
+    text-align: center;
+}
+.icon{
+    font-size: 50px;
+    padding: 1rem 0;
+    padding: 0;
+    color: #ef8172;
+}
+
+
+
+.navbar{
+    padding-bottom: 0 0 10rem;
+    margin-bottom: 4.5rem;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-item{
+    font-size: 1.2rem; ;
+    font-family: 'Montserrat';
+}
+
+
+.btn{
+    margin: 5% 3% 3% 0;
+}
+
+
+.image{
+    width: 60%;
+    transform: rotate(15deg);
+    position: relative;
+    top: 30%;
+    left: 20%;
+}
+
+
+#testimonials{
+
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+.Testimonimg{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.plogo{
+    width: 20%;
+    margin: 20px 20px 20px 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#pricing{
+    text-align: center;
+    padding: 3rem 0;
+    padding-bottom: 0;
+}
+
+.card{
+    padding-left: 0;
+    padding-right: 0;
+}
+.pricing-col{
+    text-align: center;
+}
+
+#features{
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+@media (max-width: 950px){
+    h1{
+        text-align: center;
+    }
+    #title{
+        text-align: center;
+    }
+}
+
+
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding:0;
+}
+
+.ctah3{
+    font-family: 'Montserrat-bolt', sans-serif;
+    color: white;
+    padding-bottom: 40px;
+    font-size: 40px;
+}
+
+#footer{
+    background-color: #fff;
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 20px;
+}
+
+.pf{
+    padding-top: 7px;
+}
+.btnf{
+    border: 0;
+    padding: 0 5px;
+}
